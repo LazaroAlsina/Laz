@@ -1,6 +1,7 @@
 # Lazaro Alsina
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
 
+![Warhound](WArhound high quality.png)
 ---
 
 ## Professional Summary
